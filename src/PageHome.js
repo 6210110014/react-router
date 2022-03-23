@@ -1,4 +1,5 @@
 import LayoutPage from "./LayoutPage";
+import './LayoutPage.css';
 
 function PageHome() {
   return (

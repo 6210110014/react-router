@@ -2,7 +2,6 @@ import { Route, Routes } from 'react-router-dom';
 import AppHeader from './AppHeader';
 import PageAbout from './PageAbout';
 import PageHome from './PageHome';
-import './App.css';
 
 function App() {
   return (
