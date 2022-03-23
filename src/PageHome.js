@@ -3,9 +3,15 @@ import LayoutPage from "./LayoutPage";
 function PageHome() {
   return (
     <LayoutPage>
-      <h2>แบบลายสักต่างๆ</h2>
-      
+      <h2>รูปแบบทรงผม</h2>
+      <img src="/images/hair01.jpg"/>
+      <img src="/images/hair02.jpg"/>
+      <img src="/images/hair03.jpg"/>
+      <img src="/images/hair04.jpg"/>
+      <img src="/images/hair05.jpg"/>
+      <img src="/images/hair06.jpg"/>
     </LayoutPage>
+
   );
 }
 
